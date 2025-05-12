@@ -46,15 +46,16 @@ Welcome to the Oro Latino Jewelry Store virtual assistant application. This AI-d
 ```bash
 git clone https://github.com/yourusername/oro-latino-jewelry-assistant.git
 cd oro-latino-jewelry-assistant
-
+```
 ### 2. Install Python Dependencies
 
 Install the required libraries:
 ```bash
 pip install taipy firebase-admin python-dotenv google-generativeai
-
+```
 ### 3. Configure Environment Variables
 
 Create a .env file in the root directory:
 ```bash
 GEMINI_API_KEY=your_google_generative_ai_key
+```
